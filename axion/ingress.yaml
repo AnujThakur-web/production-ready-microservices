@@ -13,6 +13,6 @@ spec:
         pathType: Prefix
         backend:
           service:
-            name: axion
+            name: axion-ui
             port:
               number: 80
